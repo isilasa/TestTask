@@ -1,0 +1,15 @@
+C:\Users\isila\source\TestFromPowerLine\TestFromPowerLine\bin\Debug\net6.0\TestFromPowerLine.exe
+C:\Users\isila\source\TestFromPowerLine\TestFromPowerLine\bin\Debug\net6.0\TestFromPowerLine.deps.json
+C:\Users\isila\source\TestFromPowerLine\TestFromPowerLine\bin\Debug\net6.0\TestFromPowerLine.runtimeconfig.json
+C:\Users\isila\source\TestFromPowerLine\TestFromPowerLine\bin\Debug\net6.0\TestFromPowerLine.dll
+C:\Users\isila\source\TestFromPowerLine\TestFromPowerLine\bin\Debug\net6.0\TestFromPowerLine.pdb
+C:\Users\isila\source\TestFromPowerLine\TestFromPowerLine\obj\Debug\net6.0\TestFromPowerLine.csproj.AssemblyReference.cache
+C:\Users\isila\source\TestFromPowerLine\TestFromPowerLine\obj\Debug\net6.0\TestFromPowerLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isila\source\TestFromPowerLine\TestFromPowerLine\obj\Debug\net6.0\TestFromPowerLine.AssemblyInfoInputs.cache
+C:\Users\isila\source\TestFromPowerLine\TestFromPowerLine\obj\Debug\net6.0\TestFromPowerLine.AssemblyInfo.cs
+C:\Users\isila\source\TestFromPowerLine\TestFromPowerLine\obj\Debug\net6.0\TestFromPowerLine.csproj.CoreCompileInputs.cache
+C:\Users\isila\source\TestFromPowerLine\TestFromPowerLine\obj\Debug\net6.0\TestFromPowerLine.dll
+C:\Users\isila\source\TestFromPowerLine\TestFromPowerLine\obj\Debug\net6.0\refint\TestFromPowerLine.dll
+C:\Users\isila\source\TestFromPowerLine\TestFromPowerLine\obj\Debug\net6.0\TestFromPowerLine.pdb
+C:\Users\isila\source\TestFromPowerLine\TestFromPowerLine\obj\Debug\net6.0\TestFromPowerLine.genruntimeconfig.cache
+C:\Users\isila\source\TestFromPowerLine\TestFromPowerLine\obj\Debug\net6.0\ref\TestFromPowerLine.dll
